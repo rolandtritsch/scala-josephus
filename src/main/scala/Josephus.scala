@@ -80,6 +80,5 @@ object Josephus {
 
     println(findSurvivor(numOfSoldiers, killingEvery-1))
     println(findSurvivorRecursively(numOfSoldiers, killingEvery-1))
-    System.exit(0)
   }
 }
